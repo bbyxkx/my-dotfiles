@@ -23,4 +23,5 @@
 - https://wallhaven.cc/w/pow9ym
 - download and use swww or hyprpaper
 # screenshot
-![preview](2026-05-22_13-58-48.png)
+
+![preview](2026-05-26_16-46-25.png)
