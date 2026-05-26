@@ -21,4 +21,6 @@
 #### then restart hyprland or reboot 
 ### wallpaper here
 - https://wallhaven.cc/w/pow9ym
-- download and use swww or hyprpaper 
+- download and use swww or hyprpaper
+# screenshot
+![preview](2026-05-22_13-58-48.png)
