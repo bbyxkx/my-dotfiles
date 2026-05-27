@@ -1,4 +1,6 @@
 # my first rice
+# note
+## the .config IS THE WAYBAR i made some mistake, please ignore the waybar file. 
 - save it here so if i miss arch when i change to void, i can go back
 ## System info
 - distro: Archlinux
