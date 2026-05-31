@@ -1,7 +1,10 @@
 # my first rice
 # note
-## the .config IS THE WAYBAR i made some mistake, please ignore the waybar file. 
-- save it here so if i miss arch when i change to void, i can go back
+- i didn't make this for everyone, just for my and some of my friends(i have no friends at all) 
+- you won't get the image for fastfetch when git clone, maybe choose one yourself or add logo :). i'll leave the link to wallpaper at the end. thanks
+- i still have a lot of stuff to do, but don't really know.
+## everything ok now 
+- save it here so if i miss arch when i change to void, i can go back(i'm too lazy to change tho) 
 ## System info
 - distro: Archlinux
 - WM: hyprland
@@ -10,6 +13,8 @@
 - shell: zsh
 - launcher: rofi
 - font: jetbrainsmono nerd font (remember to download the right font)
+- use this for font i guess
+- sudo pacman -S ttf-jetbrains-mono-nerd
 ## How to download (remember to get git before)
 ### clone it
 - use this command at ~
